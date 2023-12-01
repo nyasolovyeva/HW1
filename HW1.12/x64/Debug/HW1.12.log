@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\nadya\source\repos\HW1.12\HW1.12\Source.cpp(56,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\nadya\source\repos\HW1.12\HW1.12\Source.cpp(315,22): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  HW1.12.vcxproj -> C:\Users\nadya\source\repos\HW1.12\x64\Debug\HW1.12.exe
